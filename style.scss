@@ -66,6 +66,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  text-align: justify !important;
 }
 
 a {
@@ -288,6 +289,3 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-.entry {
-  text-align: justify;
-}
