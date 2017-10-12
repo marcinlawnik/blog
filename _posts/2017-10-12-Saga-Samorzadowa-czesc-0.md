@@ -39,7 +39,7 @@ się z innymi uczestnikami Karpicka.
 
 ### Wybory
 
-![Grafika wyborcza](images/wybory.jpg)
+![Grafika wyborcza](/images/wybory.jpg)
 
 Nastał październik. Zostały ogłoszone wybory uzupełniające do Wydziałowej
 Rady Samorządu Studentów Wydziału Informatyki. Samorząd formalnie tworzą
