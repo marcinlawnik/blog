@@ -18,17 +18,17 @@ avatar: https://avatars1.githubusercontent.com/u/718163?v=4&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:"marcin@lawniczak.me"
+  email: "marcin@lawniczak.me"
   facebook:mmmfffuuu
   flickr:
-  github: marcinlawnik
+  github:marcinlawnik
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/mmmfffuuu # channel/<your_long_string> or user/<user-name>
+  youtube:user/mmmfffuuu # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
