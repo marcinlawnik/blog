@@ -39,6 +39,8 @@ się z innymi uczestnikami Karpicka.
 
 ### Wybory
 
+![Grafika wyborcza](images/wybory.jpg)
+
 Nastał październik. Zostały ogłoszone wybory uzupełniające do Wydziałowej
 Rady Samorządu Studentów Wydziału Informatyki. Samorząd formalnie tworzą
 wszyscy studenci Uczelni, a WRSS to grupa osób wybrana w wyborach na
