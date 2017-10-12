@@ -72,8 +72,8 @@ m. in. odpowiadając na pytania i organizując materiały od prowadzących.
 Konkurencja była spora, podsycana kolejnymi postami ze strony kandydatów.
 Wyniki zostały ogłoszone wieczorem w dniu wyborów, a w raz z nim otrzymałem
 zaproszenie na spotkanie wprowadzające do Samorządu. Wraz z osobami z
-innych wydziałów dostałem gratulacje, parę mocnych uścisków dłoni,
-dostęp do grupy na Facebooku i parę przydatnych wskazówek.
+innych wydziałów dostałem gratulacje, mocne uściski dłoni, dostęp do
+grupy na Facebooku i parę przydatnych wskazówek.
 
 _Ciąg dalszy nastąpi..._
 
