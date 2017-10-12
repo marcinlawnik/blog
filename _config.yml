@@ -19,16 +19,16 @@ avatar: https://avatars1.githubusercontent.com/u/718163?v=4&s=460
 footer-links:
   dribbble:
   email: "marcin@lawniczak.me"
-  facebook:mmmfffuuu
+  facebook: mmmfffuuu
   flickr:
-  github:marcinlawnik
+  github: marcinlawnik
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube:user/mmmfffuuu # channel/<your_long_string> or user/<user-name>
+  youtube: user/mmmfffuuu # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:https://lawniczak.me/blog
+url: https://lawniczak.me/blog
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
