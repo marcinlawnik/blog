@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: O mnie
 permalink: /about/
 ---
 
-Some information about you!
+Rozwiązuję problemy. Napisz, a pomogę.
 
-### More Information
+I solve problems. Contact me, I will help.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Kontakt/contact
 
-### Contact me
+Napisz wiadomość na Fanpage na Facebooku, albo email.
+Linki w stopce.
 
-[email@domain.com](mailto:email@domain.com)
+Write a message on my Facebook page, or an email.
+Links in the footer.
