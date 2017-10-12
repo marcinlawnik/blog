@@ -6,6 +6,9 @@ title: Saga Samorządowa - część 0.
 > Do napisania tego posta zainspirowały mnie pytania moich koleżanek i
 kolegów ze studiów i to im dedykuję ten artykuł z nadzieją, że jest przydatny.
 
+
+`Szacowany czas czytania: 3 minuty`
+
 ### Wstęp do wstępu
 
 Cześć, jestem Marcin i w momencie pisania tego posta studiuję na II roku
