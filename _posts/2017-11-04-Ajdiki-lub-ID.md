@@ -117,7 +117,8 @@ i trzeba je było na szybko dostarczyć do pawilonu.
 Żeby nie przedłużać, plusy:
 - Możliwość podszlifowania języka angielskiego na sporej liczbie zagranicznych
 prelegentów.
-- Darmowa wejściówka na PGA, w tym na piątkowy VIP Day (koszt 120 PLN w 2016)
+- Darmowa wejściówka na PGA, w tym na piątkowy VIP Day podczas którego są
+prawie puste hale (koszt 120 PLN w 2016)
 - Standardowo, jedzonko. Oprócz pizzy zostaliśmy wpuszczeni do loży VIP
 (no bo po co ma się zmarnować jak już zamówione) :smirk:
 - T-shirt GIC i inne gadżety
